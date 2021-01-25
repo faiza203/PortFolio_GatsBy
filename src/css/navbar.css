@@ -1,12 +1,17 @@
+body{
+  margin: 0;
+}
 nav {
   display: flex;
   flex-direction: row;
   padding: 10px 20%;
-  background-color: blue;
+  background-color: black;
   justify-content: space-between;
+  font-family: sans-serif;
 }
 
 
 a{
     text-decoration: none;
+    color: #ffffff;
 }
