@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  padding: 10px 20%;
+  background-color: blue;
+  justify-content: space-between;
+}
+
+
+a{
+    text-decoration: none;
+}
