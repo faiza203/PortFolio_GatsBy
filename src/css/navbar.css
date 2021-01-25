@@ -1,5 +1,6 @@
 body{
   margin: 0;
+  font-family: sans-serif;
 }
 nav {
   display: flex;
@@ -7,7 +8,6 @@ nav {
   padding: 10px 20%;
   background-color: black;
   justify-content: space-between;
-  font-family: sans-serif;
 }
 
 
