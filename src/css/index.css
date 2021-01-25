@@ -1,0 +1,10 @@
+.welcome{
+  margin: 0 !important;
+  text-align: center;
+  line-height: 75vh;
+  background-image: url(../images/welcome.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-decoration: underline overline;
+}
+

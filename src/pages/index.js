@@ -2,10 +2,11 @@ import React from "react"
 
 import Layout from "../components/layout"
 import Footer from "../components/Footer"
+import "../css/index.css"
 
 const IndexPage = () => (
   <Layout>
-    <h1>Welcome To Our Calculator</h1>
+    <div className="welcome" />
     <Footer />
   </Layout>
 )
